@@ -1,2 +1,2 @@
 # Spyders
-for test and review
+for studying, review and summary
